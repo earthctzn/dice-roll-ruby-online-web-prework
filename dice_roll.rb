@@ -4,7 +4,7 @@
 
 #def roll
  # rand(1..6)# code goes here
-end
+#end
 
 def second_roll
   rand[1, 2, 3, 4, 5, 6,]
